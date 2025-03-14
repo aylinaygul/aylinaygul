@@ -1,14 +1,5 @@
 ## Hi, I am Aylin! 
 </br>
-
- <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="https://github.com/aylinaygul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinaygul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" style="max-width: 100%; height: auto;"/>
-  </a>
-    <img align="center" height="180em" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" style="max-width: 100%; height: auto;">
-
-</div>
- 
  ## Skills
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
