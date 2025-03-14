@@ -31,6 +31,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/aylinaygul/aylinaygul/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aylinaygul/aylinaygul/output/github-contribution-grid-snake.svg)
  
 </div>
