@@ -1,6 +1,5 @@
 ## Hi, I am Aylin! 
-</br>
- ## Skills
+## Skills
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
