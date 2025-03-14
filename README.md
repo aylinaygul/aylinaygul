@@ -1,11 +1,12 @@
 ## Hi, I am Aylin! 
 </br>
 
- <div style="display: inline_block"><br>
-  <img align="right" height="180em" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://github.com/aylinaygul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinaygul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-   
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinaygul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" style="max-width: 100%; height: auto;"/>
+  </a>
+    <img align="center" height="180em" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" style="max-width: 100%; height: auto;">
+
 </div>
  
  ## Skills
